@@ -60,6 +60,7 @@ if pwd == '0':
 elif pwd == '1':
     print("\n")
     passswfile = input("Name The File Path (For Password List):")
+    guess the passwords of xiaoming@gmail.com and whitetoilet@gmail.com
 
 else:
     print("\n")
